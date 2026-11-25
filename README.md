@@ -24,7 +24,7 @@ O projeto implementa um sistema de gerenciamento de cinema. Suas funcionalidades
 1. Clone o repositório:
 
    ```bash
-   git clone COLE_AQUI_A_URL_DO_REPOSITORIO
+   git clone https://github.com/JoaoPedro-Moreira/Projeto-Cinema.git
    ```
 
 2. Abra o projeto em uma IDE compatível com Java.
